@@ -16,3 +16,6 @@ This is a basic command-line To-Do app that lets you:
 ```bash
 python todo_app.py
 
+Sample: 
+1. Learn Python - ❌
+2. Build AI App - ✅
